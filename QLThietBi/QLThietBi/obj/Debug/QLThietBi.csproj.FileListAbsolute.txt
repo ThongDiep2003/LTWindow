@@ -1,0 +1,16 @@
+C:\Users\TRUNG NGUYEN\Downloads\QLThietBi\QLThietBi\QLThietBi\bin\Debug\QLThietBi.exe.config
+C:\Users\TRUNG NGUYEN\Downloads\QLThietBi\QLThietBi\QLThietBi\bin\Debug\QLThietBi.exe
+C:\Users\TRUNG NGUYEN\Downloads\QLThietBi\QLThietBi\QLThietBi\bin\Debug\QLThietBi.pdb
+C:\Users\TRUNG NGUYEN\Downloads\QLThietBi\QLThietBi\QLThietBi\bin\Debug\EntityFramework.dll
+C:\Users\TRUNG NGUYEN\Downloads\QLThietBi\QLThietBi\QLThietBi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TRUNG NGUYEN\Downloads\QLThietBi\QLThietBi\QLThietBi\bin\Debug\EntityFramework.xml
+C:\Users\TRUNG NGUYEN\Downloads\QLThietBi\QLThietBi\QLThietBi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TRUNG NGUYEN\Downloads\QLThietBi\QLThietBi\QLThietBi\obj\Debug\QLThietBi.csproj.AssemblyReference.cache
+C:\Users\TRUNG NGUYEN\Downloads\QLThietBi\QLThietBi\QLThietBi\obj\Debug\QLThietBi.csproj.SuggestedBindingRedirects.cache
+C:\Users\TRUNG NGUYEN\Downloads\QLThietBi\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Form1.resources
+C:\Users\TRUNG NGUYEN\Downloads\QLThietBi\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Properties.Resources.resources
+C:\Users\TRUNG NGUYEN\Downloads\QLThietBi\QLThietBi\QLThietBi\obj\Debug\QLThietBi.csproj.GenerateResource.cache
+C:\Users\TRUNG NGUYEN\Downloads\QLThietBi\QLThietBi\QLThietBi\obj\Debug\QLThietBi.csproj.CoreCompileInputs.cache
+C:\Users\TRUNG NGUYEN\Downloads\QLThietBi\QLThietBi\QLThietBi\obj\Debug\QLThietBi.csproj.CopyComplete
+C:\Users\TRUNG NGUYEN\Downloads\QLThietBi\QLThietBi\QLThietBi\obj\Debug\QLThietBi.exe
+C:\Users\TRUNG NGUYEN\Downloads\QLThietBi\QLThietBi\QLThietBi\obj\Debug\QLThietBi.pdb
